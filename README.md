@@ -97,15 +97,15 @@ O protótipo HTML das sprints anteriores não foi fornecido. Esta é uma impleme
 
 **Link do repositório GitHub:** https://github.com/lipex459/sprint-3-webdev-OSdev
 
-**Link do deploy na Vercel:** PENDENTE — preencher após publicar.
+**Link do deploy na Vercel:** https://sprint-3-webdev-osdev.vercel.app
 
-Envie o projeto para um repositório na sua conta do GitHub, sem a pasta `node_modules`. Na Vercel, importe esse repositório e confira:
+O projeto está publicado no GitHub e na Vercel. Para publicar uma cópia, envie o código para o GitHub sem a pasta `node_modules`, importe o repositório na Vercel e confira:
 
 - Framework: **Vite**.
 - Comando de build: **`npm run build`**.
 - Pasta de saída: **`dist`**.
 
-O arquivo `vercel.json` já contém essa configuração. Não são necessárias variáveis de ambiente. Depois de publicar, teste o site e preencha os dois links acima.
+O arquivo `vercel.json` já contém essa configuração. Não são necessárias variáveis de ambiente. A publicação foi feita no espaço Atlas, com a branch `main` do repositório acima.
 
 Referências: [React](https://react.dev/learn), [Vite](https://vite.dev/guide/) e [Vite na Vercel](https://vercel.com/docs/frameworks/frontend/vite).
 
@@ -115,6 +115,6 @@ Foi utilizado o Codex, da OpenAI, como apoio para criar e simplificar os compone
 
 ## Entrega
 
-Confira os nomes e RMs em `INTEGRANTES.TXT`, preencha os links reais neste README e gere o ZIP final com o código, os arquivos de configuração, `package.json`, `package-lock.json`, `README.md` e `INTEGRANTES.TXT`. Não inclua `node_modules`, `dist` ou `.git`.
+Confira os nomes e RMs em `INTEGRANTES.TXT` e os links acima antes da entrega. O ZIP inclui o código, os arquivos de configuração, `package.json`, `package-lock.json`, `README.md` e `INTEGRANTES.TXT`. Não inclua `node_modules`, `dist` ou `.git`.
 
 O enunciado pede um único ZIP, entregue por apenas um integrante.
