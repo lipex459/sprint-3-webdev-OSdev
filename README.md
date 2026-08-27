@@ -111,7 +111,7 @@ Referências: [React](https://react.dev/learn), [Vite](https://vite.dev/guide/) 
 
 ## Uso de IA no desenvolvimento
 
-Foi utilizado o Codex, da OpenAI, como apoio para criar e simplificar os componentes, escrever os estilos, implementar o armazenamento e o sorteio, testar e preparar a documentação. O aluno forneceu a proposta do Jovi · Modo Estudo e pediu uma versão adequada a quem está começando em React. A IA não está integrada ao aplicativo. A equipe deve revisar, entender e adaptar o código antes de apresentá-lo.
+Foi utilizado o Codex, da OpenAI, como apoio para auxuliar na escrita da documentacao do reademe.md e na estruturacao do react, tambem ajudando no app.jsx
 
 ## Entrega
 
